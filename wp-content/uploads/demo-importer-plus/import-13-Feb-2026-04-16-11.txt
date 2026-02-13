@@ -1,0 +1,4 @@
+
+WTE Page Remapped: wp_travel_engine_terms_and_conditions from ID 11 to ID 9479
+WTE Page Remapped: wp_travel_engine_confirmation_page from ID 12 to ID 9480
+WTE Page Remapped: wp_travel_engine_dashboard_page from ID 13 to ID 9481
